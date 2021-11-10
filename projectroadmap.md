@@ -6,4 +6,5 @@
 - [x] Find a related code base to the Sports Alert program to draw inspiration
 
 # Sprint 2
-- [] Begin writing code and adding any necessary files to the Sports Alert code base
+- [ ] Begin writing code and adding any necessary files to the Sports Alert code base
+- [ ] Commit 6 code changes
