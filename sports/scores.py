@@ -1,3 +1,7 @@
+#imported file for accessing scores
+#will be updated to reflect the only sports that will be used for this project
+
+
 import re
 from datetime import datetime
 
